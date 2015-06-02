@@ -1,0 +1,9 @@
+C:\dotNet\projects\testThings\testThings\bin\Debug\testThings.exe.config
+C:\dotNet\projects\testThings\testThings\bin\Debug\testThings.exe
+C:\dotNet\projects\testThings\testThings\bin\Debug\testThings.pdb
+C:\dotNet\projects\testThings\testThings\obj\Debug\testThings.csprojResolveAssemblyReference.cache
+C:\dotNet\projects\testThings\testThings\obj\Debug\testThings.Form1.resources
+C:\dotNet\projects\testThings\testThings\obj\Debug\testThings.Properties.Resources.resources
+C:\dotNet\projects\testThings\testThings\obj\Debug\testThings.csproj.GenerateResource.Cache
+C:\dotNet\projects\testThings\testThings\obj\Debug\testThings.exe
+C:\dotNet\projects\testThings\testThings\obj\Debug\testThings.pdb
