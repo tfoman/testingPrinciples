@@ -19,6 +19,7 @@ namespace testThings
 
         private void btnStart_Click(object sender, EventArgs e)
         {
+            //en liten kommentering
             MessageBox.Show("Hejsan hoppsan !!");
         }
     }
