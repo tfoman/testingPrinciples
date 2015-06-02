@@ -15,6 +15,7 @@ namespace testThings
         public Form1()
         {
             InitializeComponent();
+            // ny kommentar på samma ställe
         }
 
         private void btnStart_Click(object sender, EventArgs e)
