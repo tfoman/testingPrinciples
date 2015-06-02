@@ -20,7 +20,7 @@ namespace testThings
         private void btnStart_Click(object sender, EventArgs e)
         {
             //en liten kommentering, igen
-            MessageBox.Show("Hejsan hoppsan !!");
+            MessageBox.Show("Hejsan hoppsan !! Jag lägger till en tjingeling !!");
         }
     }
 }
