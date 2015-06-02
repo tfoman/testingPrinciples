@@ -21,6 +21,7 @@ namespace testThings
         {
             //en liten kommentering, igen
             MessageBox.Show("Hejsan hoppsan !! Jag lägger till en tjingeling !!");
+            //här kommer en kommentar efter också
         }
     }
 }
